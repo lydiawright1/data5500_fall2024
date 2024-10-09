@@ -30,6 +30,7 @@ print(states_t)
 def hello_world(name):
     print("hello"+ name)
 hello_world("andy")
+
 #debuggers
 #3 commands
 #step over, step into, step out
@@ -38,3 +39,5 @@ hello_world("andy")
 #step into goes into the function that it's breaking
 #look at variables as they are created
 #watch expression- inject code as you do it
+
+#json for homework
